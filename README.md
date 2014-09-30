@@ -1,5 +1,6 @@
 aerogel
 =======
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tikot/aerogel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A node.js control library for the [Crazyflie](http://wiki.bitcraze.se/projects:crazyflie:userguide:index) nano-copter. This is a work in progress! Your contributions are more than welcome.
 
